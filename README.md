@@ -1,5 +1,5 @@
 # Umbraco8-Simple-AWS-S3
-Umbraco 8 AWS S3
+Simple Amazon S3 Integration for Umbraco 8. Forked from https://github.com/ElijahGlover/Umbraco-S3-Provider/
 
 ## Installation & Configuration
 Setup by adding following to web.config
@@ -13,5 +13,3 @@ Setup by adding following to web.config
   <add key="awsSecret" value="" />
 </appSettings>
 ```
-
-Forked from: https://github.com/ElijahGlover/Umbraco-S3-Provider/
