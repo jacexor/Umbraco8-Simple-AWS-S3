@@ -1,6 +1,7 @@
 # Umbraco8-Simple-AWS-S3
 Umbraco 8 AWS S3
 
+## Installation & Configuration
 Setup by adding following to web.config
 ```xml
 <appSettings>
@@ -12,5 +13,5 @@ Setup by adding following to web.config
   <add key="awsSecret" value="" />
 </appSettings>
 ```
-Special thanks to https://github.com/ElijahGlover
+
 Forked from: https://github.com/ElijahGlover/Umbraco-S3-Provider/
